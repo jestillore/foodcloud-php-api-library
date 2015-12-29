@@ -13,7 +13,9 @@ class APILibraryServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        $this->publishes([
+            realpath(__DIR__.'/../config/foodcloud.php') => config_path('foodcloud.php')
+            ]);
     }
 
     /**
