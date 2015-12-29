@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "7a2ecb624e9abe203b78cc1b9dc02233",
-    "content-hash": "6645931e7282c2c36c42712d361fad8e",
+    "hash": "cc315c79d4b873626f68eaeedfc9e6b9",
+    "content-hash": "811d30d7a8360ec6f31b0e9f0e8de0f1",
     "packages": [
         {
             "name": "anlutro/curl",
